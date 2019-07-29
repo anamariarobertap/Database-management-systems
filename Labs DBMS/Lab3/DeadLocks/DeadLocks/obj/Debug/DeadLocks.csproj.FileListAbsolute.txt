@@ -1,0 +1,38 @@
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\DeadLocks.exe.config
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\DeadLocks.exe
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\DeadLocks.pdb
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\EntityFramework.dll
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\EntityFramework.xml
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csprojAssemblyReference.cache
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.Properties.Resources.resources
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.GenerateResource.cache
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.CoreCompileInputs.cache
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.CopyComplete
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.exe
+C:\Users\Pricop Stefania\source\repos\DeadLocks\DeadLocks\obj\Debug\DeadLocks.pdb
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\DeadLocks.exe.config
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\DeadLocks.exe
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\DeadLocks.pdb
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\EntityFramework.dll
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\EntityFramework.SqlServer.dll
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.dll
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\EntityFramework.xml
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\EntityFramework.SqlServer.xml
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.xml
+D:\SGBD\Lab3\DeadLocks\DeadLocks\bin\Debug\System.Data.SQLite.dll.config
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csprojAssemblyReference.cache
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.Properties.Resources.resources
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.GenerateResource.cache
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.CoreCompileInputs.cache
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.csproj.CopyComplete
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.exe
+D:\SGBD\Lab3\DeadLocks\DeadLocks\obj\Debug\DeadLocks.pdb

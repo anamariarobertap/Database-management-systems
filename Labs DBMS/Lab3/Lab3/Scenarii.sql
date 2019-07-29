@@ -1,0 +1,59 @@
+--Dirty Reads
+
+BEGIN TRANSACTION T3
+	SELECT * FROM Student WHERE Nume = 'Maier'
+
+	UPDATE Student
+	SET Prenume = 'DirtyReadName'
+	WHERE  Nume = 'Maier'
+
+	WAITFOR DELAY '00:00:05'
+ROLLBACK TRANSACTION T3
+
+
+BEGIN TRANSACTION T4
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
+	SELECT * FROM Student WHERE Nume = 'Maier'
+COMMIT TRANSACTION T4
+
+-- Workaround:  change isolation level to READ COMMITTED LEVEL	
+
+-------------------------------------------------
+
+--Unrepeatable Read
+
+BEGIN Transaction T5
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
+	SELECT * FROM Student WHERE Nume = 'Maier'
+	WAITFOR DELAY '00:00:05'
+	SELECT * FROM Student WHERE Nume = 'Maier'
+ROLLBACK TRANSACTION T5
+
+BEGIN TRANSACTION T6
+	UPDATE Student
+	SET Prenume = 'UnrepeatableName'
+	WHERE Nume = 'Maier'
+	WAITFOR DELAY '00:00:10'
+ROLLBACK TRANSACTION T6
+
+--Workaround:  change isolation level to REPEATABLE READ
+
+----------------------------------------
+
+--Phantomprobleme
+
+BEGIN Transaction T7
+	--SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+	SELECT * FROM Student WHERE Nume = 'NAME1'
+	WAITFOR DELAY '00:00:05'
+	SELECT * FROM Student WHERE Nume = 'NAME1'
+ROLLBACK TRANSACTION T7
+
+
+BEGIN TRANSACTION T8
+	--SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+	INSERT INTO Student(Nume, Prenume) VALUES('NAME1', 'NAME1')
+	WAITFOR DELAY '00:00:10'
+ROLLBACK TRANSACTION T8
+
+-- Workaround: change isolation level to SERIALIZABLE

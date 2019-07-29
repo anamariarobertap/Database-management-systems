@@ -1,0 +1,30 @@
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\SGBD\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\SGBD\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\SGBD\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\SGBD\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\SGBD Berti\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\SGBD Berti\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\SGBD Berti\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\SGBD Berti\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\SGBD\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\SGBD\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\SGBD\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\SGBD\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
